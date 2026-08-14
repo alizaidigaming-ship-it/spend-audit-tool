@@ -75,7 +75,7 @@ export default function Page() {
               </h1>
               <p className="max-w-xl text-pretty leading-relaxed text-muted-foreground">
                 Add the AI tools your team pays for and see exactly where budget is
-                leaking. Credex finds redundant seats, overlapping tools, and billing
+                leaking. SpendAudit finds redundant seats, overlapping tools, and billing
                 inefficiencies &mdash; then shows you what you could save.
               </p>
               <div className="flex flex-wrap gap-x-5 gap-y-2 text-sm text-muted-foreground">
