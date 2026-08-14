@@ -10,7 +10,7 @@ export function SiteHeader() {
             <Gauge className="size-4.5" aria-hidden="true" />
           </span>
           <div className="flex flex-col leading-none">
-            <span className="text-sm font-semibold tracking-tight">Credex</span>
+            <span className="text-sm font-semibold tracking-tight">SpendAudit</span>
             <span className="text-xs text-muted-foreground">AI Spend Audit</span>
           </div>
         </div>
