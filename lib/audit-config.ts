@@ -121,4 +121,4 @@ export function getPlan(toolId: string, planId: string): Plan | undefined {
 // Threshold (monthly savings) above which we surface the consultation CTA.
 export const CONSULTATION_THRESHOLD = 500
 
-export const STORAGE_KEY = "credex-ai-spend-audit-v1"
+export const STORAGE_KEY = "SpendAudit-ai-spend-audit-v1"

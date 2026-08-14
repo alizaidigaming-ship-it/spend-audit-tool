@@ -121,7 +121,7 @@ export default function Page() {
       <footer className="border-t border-border/60 py-8">
         <div className="mx-auto w-full max-w-3xl px-4 text-center text-xs text-muted-foreground sm:px-6">
           <p>
-            Credex AI Spend Audit &middot; Estimates use public list pricing and
+            SpendAudit AI Spend Audit &middot; Estimates use public list pricing and
             deterministic benchmarks for illustration.
           </p>
         </div>

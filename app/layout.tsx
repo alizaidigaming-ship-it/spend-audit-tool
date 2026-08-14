@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'Credex — AI Spend Audit',
+  title: 'SpendAudit — AI Spend Audit',
   description:
     'Audit your team\u2019s AI tool spend across Cursor, Copilot, Claude, ChatGPT, Gemini, and Windsurf. Find redundant seats and unlock monthly savings in minutes.',
   generator: 'v0.app',

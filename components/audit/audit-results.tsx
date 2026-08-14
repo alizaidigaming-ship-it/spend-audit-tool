@@ -162,7 +162,7 @@ export function AuditResults({
               You qualify for a free consultation
             </Badge>
             <CardTitle className="text-xl text-balance">
-              Capture {formatCurrency(annualSavings)}/yr with a Credex specialist
+              Capture {formatCurrency(annualSavings)}/yr with a SpendAudit specialist
             </CardTitle>
             <CardDescription className="text-pretty">
               Your savings exceed {formatCurrency(CONSULTATION_THRESHOLD)}/mo. Book a
@@ -174,7 +174,7 @@ export function AuditResults({
           <CardContent>
             <Button size="lg" onClick={onBookConsultation} className="w-full sm:w-auto">
               <CalendarCheck data-icon="inline-start" />
-              Book Credex Consultation
+              Book SpendAudit Consultation
             </Button>
           </CardContent>
         </Card>

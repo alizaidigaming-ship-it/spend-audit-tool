@@ -51,7 +51,7 @@ export function LeadCapture({
     setSubmitted(true)
     toast.success(
       wantsConsultation
-        ? "Thanks! A Credex specialist will reach out to schedule your consultation."
+        ? "Thanks! A SpendAudit specialist will reach out to schedule your consultation."
         : "Your detailed savings report is on its way to your inbox.",
     )
   }
@@ -78,7 +78,7 @@ export function LeadCapture({
       <CardHeader>
         <CardTitle className="text-xl text-balance">
           {wantsConsultation
-            ? "Book your free Credex consultation"
+            ? "Book your free SpendAudit consultation"
             : "Get your detailed savings report"}
         </CardTitle>
         <CardDescription className="text-pretty">
